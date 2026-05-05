@@ -217,3 +217,8 @@ Seat Number: 12A
 ---
 
 *Built with ❤ using Java 17 + JDBC + H2 Embedded Database*
+
+Authour
+
+Arnab Bhattacharya
+Avanish Sahai
